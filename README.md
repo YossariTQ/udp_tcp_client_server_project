@@ -1,8 +1,6 @@
 # udp_tcp_client_server_project
 
-A university coursework project.
-
-TCP and UDP are two packet types used on an 802.x network to enable devices to communicate. This project aimed to create a simple client/server system using TCP and UDP packets to communicate.
+This project aimed to create a simple client/server system using TCP and UDP packets to communicate. TCP and UDP are two packet types used on an 802.x network to enable devices to communicate. 
 
 Program requirements: 
 
